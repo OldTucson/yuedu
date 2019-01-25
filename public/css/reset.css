@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: #f3f3f3;
+}
+
+a {
+  color: #707070;
+  transition: .3s color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ee5044;
+}
+
+p {
+  margin: 0;
+}
